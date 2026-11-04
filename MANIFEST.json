@@ -1,0 +1,282 @@
+[
+  {
+    "path": "01 Response to Reviewers/Manuscript_Highlighted_Reviewer_Changes.pdf",
+    "size": 4959045,
+    "sha256": "565abf730441677e2c58d49084c45e2827000ed5f27239578ffb09136e5557b9"
+  },
+  {
+    "path": "01 Response to Reviewers/Response_to_Reviewers.docx",
+    "size": 692792,
+    "sha256": "6b73057b998b67843f2c911206d9f714af7a228392af87647c7c7b7c9684bf39"
+  },
+  {
+    "path": "01 Response to Reviewers/Response_to_Reviewers.pdf",
+    "size": 487753,
+    "sha256": "ee251dd799fe69734ac61e28126d00dc65d50cc341994c325602bba0336fd7d5"
+  },
+  {
+    "path": "01 Response to Reviewers/Reviewer_Action_Matrix.csv",
+    "size": 34554,
+    "sha256": "8ac990cc0a146e4b2a7e4cd77cd7dde7b656ac00600f56192682a5b70947d5a1"
+  },
+  {
+    "path": "02 Article/UNCP_ARTICLE_Final.pdf",
+    "size": 4882773,
+    "sha256": "f3458b49b7ab564788e96f806896d90434d35134afbe9867283c6c350ce1c6d9"
+  },
+  {
+    "path": "02 Article/UNCP_ARTICLE_LaTeX_Source_and_Final_PDF.zip",
+    "size": 14035982,
+    "sha256": "1abed237c6d8304219fba7ebc300a7aaacae192cbaaa06f07d9b03bcd7b4ebd8"
+  },
+  {
+    "path": "03 Data/README.md",
+    "size": 299,
+    "sha256": "8e4d16e3c5ae8979c0c2f13fd227b291a24e426456f70bf2e8489c10ccb8ea26"
+  },
+  {
+    "path": "03 Data/data.xlsx",
+    "size": 393714,
+    "sha256": "9ce7284e324debdc3505a97ecc17e9b21f51760275e9bcec6db9e77a706c0156"
+  },
+  {
+    "path": "03 Data/data_audit.json",
+    "size": 1475,
+    "sha256": "e793e9f9b42edcd17cb0fb6d1ca377f5e315456f588b02362fd5e192d0c88d05"
+  },
+  {
+    "path": "04 Code/All_Models_and_Executed_Results.ipynb",
+    "size": 95347,
+    "sha256": "57a3d7f0a3f24d817b62a6acb3fa6bc8a717c680d847a283368be3c43082db87"
+  },
+  {
+    "path": "04 Code/README.md",
+    "size": 240,
+    "sha256": "7b08261ef261f17593a4de44a288867d0c5873c89ef894c428f089d1dec4e108"
+  },
+  {
+    "path": "05 Experiment/R1.1-R2.2-R4.2 - User-Disjoint Split/Protocol_Tests.ipynb",
+    "size": 4448,
+    "sha256": "48c3dfb3ac7a2c3e141baa541189d1a23e9813b11e59e246e4907a9569d9e766"
+  },
+  {
+    "path": "05 Experiment/R1.1-R2.2-R4.2 - User-Disjoint Split/README.md",
+    "size": 246,
+    "sha256": "b66c4dfd0777bc6dcd26905ad870130a93b9e544e382a6a20389fd72634f17fc"
+  },
+  {
+    "path": "05 Experiment/R1.1-R2.2-R4.2 - User-Disjoint Split/audit.json",
+    "size": 1475,
+    "sha256": "e793e9f9b42edcd17cb0fb6d1ca377f5e315456f588b02362fd5e192d0c88d05"
+  },
+  {
+    "path": "05 Experiment/R1.1-R2.2-R4.2 - User-Disjoint Split/grouped_user_protocol.json",
+    "size": 341,
+    "sha256": "51a75eee2aa76022495823870419e20363ccc0431353dc4ddf5dcd976cf8963f"
+  },
+  {
+    "path": "05 Experiment/R1.1-R2.2-R4.2 - User-Disjoint Split/split_manifest.json",
+    "size": 118857,
+    "sha256": "880e6103093f6f3c9b44140fe62e10e9665004171e9ff09c171852bdc8337cc3"
+  },
+  {
+    "path": "05 Experiment/R1.11-R2.8-R4.4 - Session Sensitivity/README.md",
+    "size": 257,
+    "sha256": "d9024ce1a81f68b870e8fa9f71a349a1645d4ab19b21d3b00a1d0031f07c57ff"
+  },
+  {
+    "path": "05 Experiment/R1.11-R2.8-R4.4 - Session Sensitivity/Session_and_Repeat_Sensitivity.ipynb",
+    "size": 4884,
+    "sha256": "bdd5face8910633b68cbf1cbe3621ba3cfeadc83414e325e736c44bada3a5269"
+  },
+  {
+    "path": "05 Experiment/R1.11-R2.8-R4.4 - Session Sensitivity/sensitivity_baselines.csv",
+    "size": 6694,
+    "sha256": "b96b8f99d5ba138093481576e764cede2eb882ea52f03fda3c42777357e0af96"
+  },
+  {
+    "path": "05 Experiment/R1.11-R2.8-R4.4 - Session Sensitivity/sensitivity_model_summary.csv",
+    "size": 6314,
+    "sha256": "00f7dd4c0d751c8016641a5bbd97d5e95173e8035bef5b89882abf5879309f1e"
+  },
+  {
+    "path": "05 Experiment/R1.11-R2.8-R4.4 - Session Sensitivity/session_counts.csv",
+    "size": 435,
+    "sha256": "ba0fbf29f206fa826b8d74e36c2e0bfec4d6f922337663d946bcd58305432a05"
+  },
+  {
+    "path": "05 Experiment/R1.12-R2.8-R4.6 - Repeated Clicks/README.md",
+    "size": 328,
+    "sha256": "82a233a7ab25b7d66a0ec004f4a51a0b0772bc5155b307da32371d54cb85647b"
+  },
+  {
+    "path": "05 Experiment/R1.12-R2.8-R4.6 - Repeated Clicks/Session_and_Repeat_Sensitivity.ipynb",
+    "size": 4884,
+    "sha256": "bdd5face8910633b68cbf1cbe3621ba3cfeadc83414e325e736c44bada3a5269"
+  },
+  {
+    "path": "05 Experiment/R1.12-R2.8-R4.6 - Repeated Clicks/collapsed_repeat_model_summary.csv",
+    "size": 2261,
+    "sha256": "cda7e2a71021a59ab7db93fac34ecc6448ffddfb831a38bb090d39fad691cd47"
+  },
+  {
+    "path": "05 Experiment/R1.12-R2.8-R4.6 - Repeated Clicks/identified_repeated_clicks.csv",
+    "size": 3401429,
+    "sha256": "b8c9f702d480115c312b53667b92067183da9cd00085fbbe4ad54970b9327ca3"
+  },
+  {
+    "path": "05 Experiment/R1.12-R2.8-R4.6 - Repeated Clicks/repeat_inclusive_audit.json",
+    "size": 1475,
+    "sha256": "e793e9f9b42edcd17cb0fb6d1ca377f5e315456f588b02362fd5e192d0c88d05"
+  },
+  {
+    "path": "05 Experiment/R1.12-R2.8-R4.6 - Repeated Clicks/repeat_sensitivity_counts.csv",
+    "size": 435,
+    "sha256": "ba0fbf29f206fa826b8d74e36c2e0bfec4d6f922337663d946bcd58305432a05"
+  },
+  {
+    "path": "05 Experiment/R1.2-R2.3 - Baselines and Comparisons/Baselines_and_Comparisons.ipynb",
+    "size": 7994,
+    "sha256": "25989f9bbab9834505cd65e2a8aa4ab8a77abe1f91673b6e07990958330fd150"
+  },
+  {
+    "path": "05 Experiment/R1.2-R2.3 - Baselines and Comparisons/README.md",
+    "size": 315,
+    "sha256": "e2fdcdae42ce45014babe8a3d46669fd67181ee62f1d134f1e207fe4bb4591b9"
+  },
+  {
+    "path": "05 Experiment/R1.2-R2.3 - Baselines and Comparisons/baseline_fivefold_user_holdout.csv",
+    "size": 5870,
+    "sha256": "5247b6c47b3fdc1c9bf8795bb17356fdd87ddaf4097482ce4e6a316b1e5cc2bf"
+  },
+  {
+    "path": "05 Experiment/R1.2-R2.3 - Baselines and Comparisons/grouped_user_summary.csv",
+    "size": 4010,
+    "sha256": "7a790f0a637748ea8078f5f822a22eb901aff84e9af4012458c30be51921a807"
+  },
+  {
+    "path": "05 Experiment/R1.2-R2.3 - Baselines and Comparisons/neural_runs_all_seeds.csv",
+    "size": 2446,
+    "sha256": "2a8a87cb22668a087f82cbb1b27747f899b5c1926f625dac661e0e7dae721600"
+  },
+  {
+    "path": "05 Experiment/R1.2-R2.3 - Baselines and Comparisons/paired_comparisons.csv",
+    "size": 1462,
+    "sha256": "9aef62e270af7ef11843a48a2b97d02f05f739e4f0ec3d01066f4d92c77230c4"
+  },
+  {
+    "path": "05 Experiment/R1.3-R2.4 - Page and Imbalance Analysis/Page_Diagnostics.ipynb",
+    "size": 6484,
+    "sha256": "760e31fe7bc90f448322fe26f14f340b34f133c198fac60d867d617e9381d57d"
+  },
+  {
+    "path": "05 Experiment/R1.3-R2.4 - Page and Imbalance Analysis/README.md",
+    "size": 327,
+    "sha256": "298361174bda1dee81a12124845fb40dcf8df42aba7798a3814889a97108e101"
+  },
+  {
+    "path": "05 Experiment/R1.3-R2.4 - Page and Imbalance Analysis/frequency_group_metrics.csv",
+    "size": 3760,
+    "sha256": "95f2906fb3bb8cd971f8e77123f0acb96155089fecafdb5ecf2a96cc6de43f42"
+  },
+  {
+    "path": "05 Experiment/R1.3-R2.4 - Page and Imbalance Analysis/page_candidate_counts.csv",
+    "size": 1695,
+    "sha256": "ff28ab4cfab6fa09f707e9bac78758a0a5dd563c9051dac1f5f4ea1438ec37cf"
+  },
+  {
+    "path": "05 Experiment/R1.3-R2.4 - Page and Imbalance Analysis/page_diagnostics_latest.csv",
+    "size": 3359,
+    "sha256": "e05f2714015e961661cd6231ac0695ae8ab67ef3009fa93525dc505f73fde267"
+  },
+  {
+    "path": "05 Experiment/R1.3-R2.4 - Page and Imbalance Analysis/per_label_metrics.csv",
+    "size": 80751,
+    "sha256": "f83caaddea96837596ec714506a20f38d50aa1066cb102d6c63e38e381f4936f"
+  },
+  {
+    "path": "05 Experiment/R1.5-R2.1 - Novelty and UNCP Models/All_Models_and_Executed_Results.ipynb",
+    "size": 95347,
+    "sha256": "57a3d7f0a3f24d817b62a6acb3fa6bc8a717c680d847a283368be3c43082db87"
+  },
+  {
+    "path": "05 Experiment/R1.5-R2.1 - Novelty and UNCP Models/README.md",
+    "size": 340,
+    "sha256": "3c1d33ef062eb60962d7245727f64e1f312972fc3309a878804d27129c7cc305"
+  },
+  {
+    "path": "05 Experiment/R1.5-R2.1 - Novelty and UNCP Models/UNCP_2_Model_and_Results.ipynb",
+    "size": 10493,
+    "sha256": "b1b8f6f40a55a0137bcfaa474d87fb72b7fce929beb15a3fa34c138ad7ee903c"
+  },
+  {
+    "path": "05 Experiment/R1.5-R2.1 - Novelty and UNCP Models/UNCP_3_Model_and_Results.ipynb",
+    "size": 10903,
+    "sha256": "406945201a0e66d5c021c58c21d4f777555bf7a8e1e85a4caf7892627f9e5efd"
+  },
+  {
+    "path": "05 Experiment/R1.5-R2.1 - Novelty and UNCP Models/UNCP_4_Model_and_Results.ipynb",
+    "size": 10284,
+    "sha256": "a3d90824b0c6838d450e744b90107505b51e7674ee69beccfb299f76b5ca3618"
+  },
+  {
+    "path": "05 Experiment/R1.5-R2.1 - Novelty and UNCP Models/UNCP_5_Model_and_Results.ipynb",
+    "size": 16101,
+    "sha256": "b42cf4dac148cb4257d5a398e98916421eef1e91b37e5ea6b4b7a5f68dcd1f5b"
+  },
+  {
+    "path": "05 Experiment/R1.5-R2.1 - Novelty and UNCP Models/UNCP_6_Model_and_Results.ipynb",
+    "size": 11078,
+    "sha256": "5f3306258bd1d6823f69b677627527a93534c24dc61fe2430a902d9eb3d032a3"
+  },
+  {
+    "path": "05 Experiment/R1.6 - Target Leakage/Protocol_Tests.ipynb",
+    "size": 4448,
+    "sha256": "48c3dfb3ac7a2c3e141baa541189d1a23e9813b11e59e246e4907a9569d9e766"
+  },
+  {
+    "path": "05 Experiment/R1.6 - Target Leakage/README.md",
+    "size": 286,
+    "sha256": "78a1602d748761037cc312d154f63ffec4cbb01ca44b367017f7591ac122423b"
+  },
+  {
+    "path": "05 Experiment/R1.6 - Target Leakage/benchmark_configuration.json",
+    "size": 817,
+    "sha256": "d32b716c7ff262f5f465790ef68d5093451a008bc5bb859413d9bb56382ec582"
+  },
+  {
+    "path": "05 Experiment/R1.6 - Target Leakage/grouped_user_protocol.json",
+    "size": 341,
+    "sha256": "51a75eee2aa76022495823870419e20363ccc0431353dc4ddf5dcd976cf8963f"
+  },
+  {
+    "path": "05 Experiment/R1.7-R1.8-R2.7-R4.3 - Reproducibility/Explicit_Model_Implementations.ipynb",
+    "size": 28772,
+    "sha256": "21c8bb622444ccc3d2a4f4d102e51f15f3c3fb89d0a594b163485181b44699e6"
+  },
+  {
+    "path": "05 Experiment/R1.7-R1.8-R2.7-R4.3 - Reproducibility/README.md",
+    "size": 294,
+    "sha256": "33cceb8c68b08e40c493b41f60baf9bbbe67e5e3e6f4f9c8102deff6167aae18"
+  },
+  {
+    "path": "05 Experiment/R1.7-R1.8-R2.7-R4.3 - Reproducibility/benchmark_configuration.json",
+    "size": 817,
+    "sha256": "d32b716c7ff262f5f465790ef68d5093451a008bc5bb859413d9bb56382ec582"
+  },
+  {
+    "path": "05 Experiment/R1.7-R1.8-R2.7-R4.3 - Reproducibility/neural_runs_all_seeds.csv",
+    "size": 2446,
+    "sha256": "2a8a87cb22668a087f82cbb1b27747f899b5c1926f625dac661e0e7dae721600"
+  },
+  {
+    "path": "05 Experiment/R1.7-R1.8-R2.7-R4.3 - Reproducibility/paired_comparisons.csv",
+    "size": 1462,
+    "sha256": "9aef62e270af7ef11843a48a2b97d02f05f739e4f0ec3d01066f4d92c77230c4"
+  },
+  {
+    "path": "README.md",
+    "size": 690,
+    "sha256": "a28aa43150121ea574abf03f1ff1deef2f695b1b7a3ed4ef7a1952cdeb1be6d1"
+  }
+]

@@ -1,0 +1,6 @@
+variant,rows,clicks,examples,mean_length,median_length,p95_length,max_length
+as_exported,4216,35290,31074,8.370493358633777,5.0,23.0,103
+collapse_adjacent_repeats,4216,33645,29429,7.980313092979127,5.0,23.0,95
+aligned_rows_unmodified,3830,28999,25169,7.571540469973891,4.0,23.0,66
+aligned_refine_gap_gt_120s,3948,28999,25051,7.345238095238095,4.0,23.0,66
+aligned_refine_gap_gt_240s,3906,28999,25093,7.424219150025602,4.0,23.0,66
