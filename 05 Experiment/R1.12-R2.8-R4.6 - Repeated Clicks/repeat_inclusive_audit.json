@@ -1,0 +1,53 @@
+{
+  "source_filename": "data_with_repeated_clicks.xlsx",
+  "sha256": "9ce7284e324debdc3505a97ecc17e9b21f51760275e9bcec6db9e77a706c0156",
+  "rows": 4223,
+  "unique_user_ids": 52,
+  "click_tokens": 46194,
+  "timestamps": 46194,
+  "literal_click_labels": 93,
+  "next_click_examples": 41971,
+  "single_click_rows": 612,
+  "rows_with_count_mismatch": 0,
+  "clicks_in_mismatched_rows": 0,
+  "rows_with_invalid_timestamp": 38,
+  "rows_with_nonmonotone_timestamps": 0,
+  "event_aligned_rows": 4185,
+  "event_aligned_clicks": 44823,
+  "duplicate_user_time_label_events_in_aligned_rows": 10030,
+  "adjacent_repeated_clicks": 11985,
+  "rows_with_adjacent_repeats": 856,
+  "exact_duplicate_rows": 0,
+  "row_length": {
+    "minimum": 1,
+    "median": 5.0,
+    "mean": 10.938669192517168,
+    "maximum": 1156,
+    "p95": 27.0,
+    "p99": 85.0
+  },
+  "source_columns": [
+    "id",
+    "sequence",
+    "time",
+    "page_sequence",
+    "event_count",
+    "restored_repeated_count",
+    "alignment_status",
+    "source_extra_times",
+    "source_row"
+  ],
+  "page_or_candidate_fields_available": false,
+  "date_range_valid_rows": [
+    "1402-07-17 00:08:03",
+    "1402-10-18 07:32:14"
+  ],
+  "notebook_audit": [],
+  "original_prefix_random_split_reconstruction": {
+    "train_examples": 33576,
+    "test_examples": 8395,
+    "shared_source_rows": 2229,
+    "test_examples_with_source_row_also_in_train": 8245,
+    "fraction_test_examples_with_source_row_also_in_train": 0.9821322215604527
+  }
+}

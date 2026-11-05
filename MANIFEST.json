@@ -1,0 +1,467 @@
+[
+  {
+    "path": "01 Response to Reviewers/Manuscript_Highlighted_Reviewer_Changes.pdf",
+    "size": 4463020,
+    "sha256": "5e2b017b9eaed3400fda7c3a47e155fb87dacae53f7a9e2b33d0c70e698aa128"
+  },
+  {
+    "path": "01 Response to Reviewers/Response_to_Reviewers.docx",
+    "size": 3844234,
+    "sha256": "4486dbd93d497869d3130f78c76d5a60369efc71a4da8c1fe4ddcbb247499ab5"
+  },
+  {
+    "path": "01 Response to Reviewers/Response_to_Reviewers.pdf",
+    "size": 272124,
+    "sha256": "cacbebb4a68a7e8bc872bf0dd87794f0f21bb744486daf5a19c0e2e8e33c4560"
+  },
+  {
+    "path": "01 Response to Reviewers/Reviewer_Action_Matrix.csv",
+    "size": 35629,
+    "sha256": "096cd6dd87c8293096a5983b630aff1049382fc8c7d6aa964ce38cbd7b18ba34"
+  },
+  {
+    "path": "02 Article/LaTeX Source/Manuscript_Highlighted_Latest.bbl",
+    "size": 13910,
+    "sha256": "f93fc2249d09240d18cd8f205778ed3347fb12f814437dbc5781ea7a03131022"
+  },
+  {
+    "path": "02 Article/LaTeX Source/Manuscript_Highlighted_Latest.pdf",
+    "size": 4463020,
+    "sha256": "5e2b017b9eaed3400fda7c3a47e155fb87dacae53f7a9e2b33d0c70e698aa128"
+  },
+  {
+    "path": "02 Article/LaTeX Source/Manuscript_Highlighted_Latest.tex",
+    "size": 101692,
+    "sha256": "426bce6e98582e4ca5dd8a256cee7a5a6e0e9e20944f4b075c801f2c6834dbf5"
+  },
+  {
+    "path": "02 Article/LaTeX Source/Paper.bbl",
+    "size": 13910,
+    "sha256": "f93fc2249d09240d18cd8f205778ed3347fb12f814437dbc5781ea7a03131022"
+  },
+  {
+    "path": "02 Article/LaTeX Source/Paper.pdf",
+    "size": 4462164,
+    "sha256": "c20cc0bbe788afef22bb25cb668b3e0da9720ed71b4427a17415c24abd01b541"
+  },
+  {
+    "path": "02 Article/LaTeX Source/Paper.tex",
+    "size": 69159,
+    "sha256": "e64166345dddea2ddee84e9c14e860adf3e866c99e3c92886f006e61edfe89cb"
+  },
+  {
+    "path": "02 Article/LaTeX Source/README.md",
+    "size": 714,
+    "sha256": "4e6dfe74d726ab505f29687cecdcda2d5f19558843634cd0741d99dd2c1ef2dd"
+  },
+  {
+    "path": "02 Article/LaTeX Source/absolute_ranking_position.png",
+    "size": 84142,
+    "sha256": "0d353ed93004126ecb2bb8ee12247ee586367ebaa4e440c703a7285e63bbe893"
+  },
+  {
+    "path": "02 Article/LaTeX Source/clickable_elements.png",
+    "size": 487849,
+    "sha256": "92b3554bf881b00dc81aad6398e0266cd99c0da1086d2901c6ca6430b51b0810"
+  },
+  {
+    "path": "02 Article/LaTeX Source/dataset.png",
+    "size": 381998,
+    "sha256": "082bd17e312d32890c28d823b537e4cf10faefdbf4b31e14eb3b91dfa5d8b3c0"
+  },
+  {
+    "path": "02 Article/LaTeX Source/empty.eps",
+    "size": 2890,
+    "sha256": "aca23a40a6a8e1bf92b417dbf15ebdceaefd2e4066e8ec98747232237facaa04"
+  },
+  {
+    "path": "02 Article/LaTeX Source/example_contacts.png",
+    "size": 309292,
+    "sha256": "07e57c292a664d3273c0d9d1a86e7bf932d8bb0a9327c717acac69ea62309a40"
+  },
+  {
+    "path": "02 Article/LaTeX Source/expire_time.png",
+    "size": 295140,
+    "sha256": "5e5dd7f8a42c7f23da7329622d3d5b0e88fa031df089f1d1ab51380a160ceac4"
+  },
+  {
+    "path": "02 Article/LaTeX Source/fig.eps",
+    "size": 91593,
+    "sha256": "000216a239b64210b463bb888e4be0a233410eccb24e7e4692de4f2ba940ee03"
+  },
+  {
+    "path": "02 Article/LaTeX Source/google_calendarapp.png",
+    "size": 455344,
+    "sha256": "db5a2dc215a5447005af0a766a9e3f32e52bab460388638805f525209e55a8bf"
+  },
+  {
+    "path": "02 Article/LaTeX Source/lstm_arc.png",
+    "size": 1018358,
+    "sha256": "d2fe5ebfff7559eb42d90ba12a8bd7c53c76e76369c657b19325a5a5e28d2088"
+  },
+  {
+    "path": "02 Article/LaTeX Source/model_flow.png",
+    "size": 338409,
+    "sha256": "3b2d829969178f93211463408fcc12e14b40e51af54d567cf78a24b74d90150a"
+  },
+  {
+    "path": "02 Article/LaTeX Source/models_accuracy_updated.png",
+    "size": 40337,
+    "sha256": "ddb75bdf092e37cf93ae3e56e67a13f784424844aaf2240edf47ee59cbb5ae1c"
+  },
+  {
+    "path": "02 Article/LaTeX Source/models_top1_accuracy.png",
+    "size": 91288,
+    "sha256": "7e56236e8a409ef2f3c17f52b9f3bec4a9efb91c889ecc9da3807fee0c811c2c"
+  },
+  {
+    "path": "02 Article/LaTeX Source/models_top3_accuracy.png",
+    "size": 92874,
+    "sha256": "73e6f87f98394e752841296d8c4e6161303515e4172ab5b2d9f89877d309ff57"
+  },
+  {
+    "path": "02 Article/LaTeX Source/pages_and_clickable_elemetns_chart.jpg",
+    "size": 734972,
+    "sha256": "ca965646d880b41e87d0c848bbf61e3479f6bc395341e7881516f9b5236f8813"
+  },
+  {
+    "path": "02 Article/LaTeX Source/pages_and_times.png",
+    "size": 14138,
+    "sha256": "25e98cbc6f0b1cc0c44758aae94e622d4a745f542d904d9727425131b5306a3d"
+  },
+  {
+    "path": "02 Article/LaTeX Source/prediction_next_user_click.png",
+    "size": 168835,
+    "sha256": "789546a72c41ead3d0e5e603c14f6d17972612bdee19acf851e48946a3aecb72"
+  },
+  {
+    "path": "02 Article/LaTeX Source/protocol_top3_updated.png",
+    "size": 38550,
+    "sha256": "b7dad3e3b89f26258e164db8bf48555ffedcb60338ddcf00f4366274b2ee62e7"
+  },
+  {
+    "path": "02 Article/LaTeX Source/relative_ranking_position.png",
+    "size": 86367,
+    "sha256": "8d78bdff2d4d6ee85acc706f032a33a8d2bf898efda38d23b33e4dc311da78c2"
+  },
+  {
+    "path": "02 Article/LaTeX Source/results_compact.tex",
+    "size": 6531,
+    "sha256": "f22a48c50c9ff1dc3713a5934a54762adad6bba27013c90a77be437faac125b7"
+  },
+  {
+    "path": "02 Article/LaTeX Source/sn-apacite.bst",
+    "size": 152512,
+    "sha256": "e6057e473a4cb144c48cfe3018b60ac34648df0d61ce0821fd53f8e440ff2e07"
+  },
+  {
+    "path": "02 Article/LaTeX Source/sn-aps.bst",
+    "size": 30423,
+    "sha256": "4fc7f9db355d9ce90990715b2757ec6fa24f20656d7e24a5b7b6b1c743abd5be"
+  },
+  {
+    "path": "02 Article/LaTeX Source/sn-basic.bst",
+    "size": 35733,
+    "sha256": "1e881d925dfe17dfd86b1f9338fd80fe4440f4dbe016ef8e9b58bde5f6b5c6b4"
+  },
+  {
+    "path": "02 Article/LaTeX Source/sn-bibliography.bib",
+    "size": 39617,
+    "sha256": "97040b103f77ad628b26c7429344f2537213d9c527bf9bcf735da15aa5dfa8ac"
+  },
+  {
+    "path": "02 Article/LaTeX Source/sn-chicago.bst",
+    "size": 40398,
+    "sha256": "0facfbfbda026cbb43d8befd53ec7f6afa18ca3ea7578159b155b486bf1e9408"
+  },
+  {
+    "path": "02 Article/LaTeX Source/sn-jnl.cls",
+    "size": 55331,
+    "sha256": "82046223888ead55b3177866b6a58d0aa488c7b81a866b1456b1b31275f717ca"
+  },
+  {
+    "path": "02 Article/LaTeX Source/sn-mathphys-ay.bst",
+    "size": 64140,
+    "sha256": "f1cb6b34adde76e0abb17420885e3e0ea79ced5508d61f69e62b06e18c7d66b5"
+  },
+  {
+    "path": "02 Article/LaTeX Source/sn-mathphys-num.bst",
+    "size": 64141,
+    "sha256": "9f54bd1e93035022a5a6cfe0d5e0a2b0aedcb762079d3e487befa2bf2ecd1db8"
+  },
+  {
+    "path": "02 Article/LaTeX Source/sn-nature.bst",
+    "size": 40058,
+    "sha256": "f051d4708bde59f78cfb21ef1f05eca9548019c9a27d46f445446fa9653f5d98"
+  },
+  {
+    "path": "02 Article/LaTeX Source/sn-vancouver.bst",
+    "size": 41304,
+    "sha256": "95518f02190e7d648b82ab23916f1c6c479ddd74cbaa1466a0062358701e012e"
+  },
+  {
+    "path": "02 Article/LaTeX Source/transformer_arc.png",
+    "size": 1225531,
+    "sha256": "bbaaca71322e2e3972ab313489a4356343de980623a282df35a019558bbe58b5"
+  },
+  {
+    "path": "02 Article/UNCP_ARTICLE_Final.pdf",
+    "size": 4462164,
+    "sha256": "c20cc0bbe788afef22bb25cb668b3e0da9720ed71b4427a17415c24abd01b541"
+  },
+  {
+    "path": "02 Article/UNCP_ARTICLE_LaTeX_Source_and_Final_PDF.zip",
+    "size": 9595285,
+    "sha256": "dc3e6bca9233fd3e1827126abcae3ff519fa477b1bab4d1925b443f0cd8fba32"
+  },
+  {
+    "path": "03 Data/README.md",
+    "size": 299,
+    "sha256": "8e4d16e3c5ae8979c0c2f13fd227b291a24e426456f70bf2e8489c10ccb8ea26"
+  },
+  {
+    "path": "03 Data/data.xlsx",
+    "size": 393714,
+    "sha256": "9ce7284e324debdc3505a97ecc17e9b21f51760275e9bcec6db9e77a706c0156"
+  },
+  {
+    "path": "03 Data/data_audit.json",
+    "size": 1475,
+    "sha256": "e793e9f9b42edcd17cb0fb6d1ca377f5e315456f588b02362fd5e192d0c88d05"
+  },
+  {
+    "path": "04 Code/All_Models_and_Executed_Results.ipynb",
+    "size": 95347,
+    "sha256": "57a3d7f0a3f24d817b62a6acb3fa6bc8a717c680d847a283368be3c43082db87"
+  },
+  {
+    "path": "04 Code/README.md",
+    "size": 240,
+    "sha256": "7b08261ef261f17593a4de44a288867d0c5873c89ef894c428f089d1dec4e108"
+  },
+  {
+    "path": "05 Experiment/R1.1-R2.2-R4.2 - User-Disjoint Split/Protocol_Tests.ipynb",
+    "size": 4448,
+    "sha256": "48c3dfb3ac7a2c3e141baa541189d1a23e9813b11e59e246e4907a9569d9e766"
+  },
+  {
+    "path": "05 Experiment/R1.1-R2.2-R4.2 - User-Disjoint Split/README.md",
+    "size": 246,
+    "sha256": "b66c4dfd0777bc6dcd26905ad870130a93b9e544e382a6a20389fd72634f17fc"
+  },
+  {
+    "path": "05 Experiment/R1.1-R2.2-R4.2 - User-Disjoint Split/audit.json",
+    "size": 1475,
+    "sha256": "e793e9f9b42edcd17cb0fb6d1ca377f5e315456f588b02362fd5e192d0c88d05"
+  },
+  {
+    "path": "05 Experiment/R1.1-R2.2-R4.2 - User-Disjoint Split/grouped_user_protocol.json",
+    "size": 341,
+    "sha256": "51a75eee2aa76022495823870419e20363ccc0431353dc4ddf5dcd976cf8963f"
+  },
+  {
+    "path": "05 Experiment/R1.1-R2.2-R4.2 - User-Disjoint Split/split_manifest.json",
+    "size": 118857,
+    "sha256": "880e6103093f6f3c9b44140fe62e10e9665004171e9ff09c171852bdc8337cc3"
+  },
+  {
+    "path": "05 Experiment/R1.11-R2.8-R4.4 - Session Sensitivity/README.md",
+    "size": 257,
+    "sha256": "d9024ce1a81f68b870e8fa9f71a349a1645d4ab19b21d3b00a1d0031f07c57ff"
+  },
+  {
+    "path": "05 Experiment/R1.11-R2.8-R4.4 - Session Sensitivity/Session_and_Repeat_Sensitivity.ipynb",
+    "size": 4884,
+    "sha256": "bdd5face8910633b68cbf1cbe3621ba3cfeadc83414e325e736c44bada3a5269"
+  },
+  {
+    "path": "05 Experiment/R1.11-R2.8-R4.4 - Session Sensitivity/sensitivity_baselines.csv",
+    "size": 6694,
+    "sha256": "b96b8f99d5ba138093481576e764cede2eb882ea52f03fda3c42777357e0af96"
+  },
+  {
+    "path": "05 Experiment/R1.11-R2.8-R4.4 - Session Sensitivity/sensitivity_model_summary.csv",
+    "size": 6314,
+    "sha256": "00f7dd4c0d751c8016641a5bbd97d5e95173e8035bef5b89882abf5879309f1e"
+  },
+  {
+    "path": "05 Experiment/R1.11-R2.8-R4.4 - Session Sensitivity/session_counts.csv",
+    "size": 435,
+    "sha256": "ba0fbf29f206fa826b8d74e36c2e0bfec4d6f922337663d946bcd58305432a05"
+  },
+  {
+    "path": "05 Experiment/R1.12-R2.8-R4.6 - Repeated Clicks/README.md",
+    "size": 328,
+    "sha256": "82a233a7ab25b7d66a0ec004f4a51a0b0772bc5155b307da32371d54cb85647b"
+  },
+  {
+    "path": "05 Experiment/R1.12-R2.8-R4.6 - Repeated Clicks/Session_and_Repeat_Sensitivity.ipynb",
+    "size": 4884,
+    "sha256": "bdd5face8910633b68cbf1cbe3621ba3cfeadc83414e325e736c44bada3a5269"
+  },
+  {
+    "path": "05 Experiment/R1.12-R2.8-R4.6 - Repeated Clicks/collapsed_repeat_model_summary.csv",
+    "size": 2261,
+    "sha256": "cda7e2a71021a59ab7db93fac34ecc6448ffddfb831a38bb090d39fad691cd47"
+  },
+  {
+    "path": "05 Experiment/R1.12-R2.8-R4.6 - Repeated Clicks/identified_repeated_clicks.csv",
+    "size": 3401429,
+    "sha256": "b8c9f702d480115c312b53667b92067183da9cd00085fbbe4ad54970b9327ca3"
+  },
+  {
+    "path": "05 Experiment/R1.12-R2.8-R4.6 - Repeated Clicks/repeat_inclusive_audit.json",
+    "size": 1475,
+    "sha256": "e793e9f9b42edcd17cb0fb6d1ca377f5e315456f588b02362fd5e192d0c88d05"
+  },
+  {
+    "path": "05 Experiment/R1.12-R2.8-R4.6 - Repeated Clicks/repeat_sensitivity_counts.csv",
+    "size": 435,
+    "sha256": "ba0fbf29f206fa826b8d74e36c2e0bfec4d6f922337663d946bcd58305432a05"
+  },
+  {
+    "path": "05 Experiment/R1.2-R2.3 - Baselines and Comparisons/Baselines_and_Comparisons.ipynb",
+    "size": 7994,
+    "sha256": "25989f9bbab9834505cd65e2a8aa4ab8a77abe1f91673b6e07990958330fd150"
+  },
+  {
+    "path": "05 Experiment/R1.2-R2.3 - Baselines and Comparisons/README.md",
+    "size": 315,
+    "sha256": "e2fdcdae42ce45014babe8a3d46669fd67181ee62f1d134f1e207fe4bb4591b9"
+  },
+  {
+    "path": "05 Experiment/R1.2-R2.3 - Baselines and Comparisons/baseline_fivefold_user_holdout.csv",
+    "size": 5870,
+    "sha256": "5247b6c47b3fdc1c9bf8795bb17356fdd87ddaf4097482ce4e6a316b1e5cc2bf"
+  },
+  {
+    "path": "05 Experiment/R1.2-R2.3 - Baselines and Comparisons/grouped_user_summary.csv",
+    "size": 4010,
+    "sha256": "7a790f0a637748ea8078f5f822a22eb901aff84e9af4012458c30be51921a807"
+  },
+  {
+    "path": "05 Experiment/R1.2-R2.3 - Baselines and Comparisons/neural_runs_all_seeds.csv",
+    "size": 2446,
+    "sha256": "2a8a87cb22668a087f82cbb1b27747f899b5c1926f625dac661e0e7dae721600"
+  },
+  {
+    "path": "05 Experiment/R1.2-R2.3 - Baselines and Comparisons/paired_comparisons.csv",
+    "size": 1462,
+    "sha256": "9aef62e270af7ef11843a48a2b97d02f05f739e4f0ec3d01066f4d92c77230c4"
+  },
+  {
+    "path": "05 Experiment/R1.3-R2.4 - Page and Imbalance Analysis/Page_Diagnostics.ipynb",
+    "size": 6484,
+    "sha256": "760e31fe7bc90f448322fe26f14f340b34f133c198fac60d867d617e9381d57d"
+  },
+  {
+    "path": "05 Experiment/R1.3-R2.4 - Page and Imbalance Analysis/README.md",
+    "size": 327,
+    "sha256": "298361174bda1dee81a12124845fb40dcf8df42aba7798a3814889a97108e101"
+  },
+  {
+    "path": "05 Experiment/R1.3-R2.4 - Page and Imbalance Analysis/frequency_group_metrics.csv",
+    "size": 3760,
+    "sha256": "95f2906fb3bb8cd971f8e77123f0acb96155089fecafdb5ecf2a96cc6de43f42"
+  },
+  {
+    "path": "05 Experiment/R1.3-R2.4 - Page and Imbalance Analysis/page_candidate_counts.csv",
+    "size": 1695,
+    "sha256": "ff28ab4cfab6fa09f707e9bac78758a0a5dd563c9051dac1f5f4ea1438ec37cf"
+  },
+  {
+    "path": "05 Experiment/R1.3-R2.4 - Page and Imbalance Analysis/page_diagnostics_latest.csv",
+    "size": 3359,
+    "sha256": "e05f2714015e961661cd6231ac0695ae8ab67ef3009fa93525dc505f73fde267"
+  },
+  {
+    "path": "05 Experiment/R1.3-R2.4 - Page and Imbalance Analysis/per_label_metrics.csv",
+    "size": 80751,
+    "sha256": "f83caaddea96837596ec714506a20f38d50aa1066cb102d6c63e38e381f4936f"
+  },
+  {
+    "path": "05 Experiment/R1.5-R2.1 - Novelty and UNCP Models/All_Models_and_Executed_Results.ipynb",
+    "size": 95347,
+    "sha256": "57a3d7f0a3f24d817b62a6acb3fa6bc8a717c680d847a283368be3c43082db87"
+  },
+  {
+    "path": "05 Experiment/R1.5-R2.1 - Novelty and UNCP Models/README.md",
+    "size": 340,
+    "sha256": "3c1d33ef062eb60962d7245727f64e1f312972fc3309a878804d27129c7cc305"
+  },
+  {
+    "path": "05 Experiment/R1.5-R2.1 - Novelty and UNCP Models/UNCP_2_Model_and_Results.ipynb",
+    "size": 10493,
+    "sha256": "b1b8f6f40a55a0137bcfaa474d87fb72b7fce929beb15a3fa34c138ad7ee903c"
+  },
+  {
+    "path": "05 Experiment/R1.5-R2.1 - Novelty and UNCP Models/UNCP_3_Model_and_Results.ipynb",
+    "size": 10903,
+    "sha256": "406945201a0e66d5c021c58c21d4f777555bf7a8e1e85a4caf7892627f9e5efd"
+  },
+  {
+    "path": "05 Experiment/R1.5-R2.1 - Novelty and UNCP Models/UNCP_4_Model_and_Results.ipynb",
+    "size": 10284,
+    "sha256": "a3d90824b0c6838d450e744b90107505b51e7674ee69beccfb299f76b5ca3618"
+  },
+  {
+    "path": "05 Experiment/R1.5-R2.1 - Novelty and UNCP Models/UNCP_5_Model_and_Results.ipynb",
+    "size": 16101,
+    "sha256": "b42cf4dac148cb4257d5a398e98916421eef1e91b37e5ea6b4b7a5f68dcd1f5b"
+  },
+  {
+    "path": "05 Experiment/R1.5-R2.1 - Novelty and UNCP Models/UNCP_6_Model_and_Results.ipynb",
+    "size": 11078,
+    "sha256": "5f3306258bd1d6823f69b677627527a93534c24dc61fe2430a902d9eb3d032a3"
+  },
+  {
+    "path": "05 Experiment/R1.6 - Target Leakage/Protocol_Tests.ipynb",
+    "size": 4448,
+    "sha256": "48c3dfb3ac7a2c3e141baa541189d1a23e9813b11e59e246e4907a9569d9e766"
+  },
+  {
+    "path": "05 Experiment/R1.6 - Target Leakage/README.md",
+    "size": 286,
+    "sha256": "78a1602d748761037cc312d154f63ffec4cbb01ca44b367017f7591ac122423b"
+  },
+  {
+    "path": "05 Experiment/R1.6 - Target Leakage/benchmark_configuration.json",
+    "size": 817,
+    "sha256": "d32b716c7ff262f5f465790ef68d5093451a008bc5bb859413d9bb56382ec582"
+  },
+  {
+    "path": "05 Experiment/R1.6 - Target Leakage/grouped_user_protocol.json",
+    "size": 341,
+    "sha256": "51a75eee2aa76022495823870419e20363ccc0431353dc4ddf5dcd976cf8963f"
+  },
+  {
+    "path": "05 Experiment/R1.7-R1.8-R2.7-R4.3 - Reproducibility/Explicit_Model_Implementations.ipynb",
+    "size": 28772,
+    "sha256": "21c8bb622444ccc3d2a4f4d102e51f15f3c3fb89d0a594b163485181b44699e6"
+  },
+  {
+    "path": "05 Experiment/R1.7-R1.8-R2.7-R4.3 - Reproducibility/README.md",
+    "size": 294,
+    "sha256": "33cceb8c68b08e40c493b41f60baf9bbbe67e5e3e6f4f9c8102deff6167aae18"
+  },
+  {
+    "path": "05 Experiment/R1.7-R1.8-R2.7-R4.3 - Reproducibility/benchmark_configuration.json",
+    "size": 817,
+    "sha256": "d32b716c7ff262f5f465790ef68d5093451a008bc5bb859413d9bb56382ec582"
+  },
+  {
+    "path": "05 Experiment/R1.7-R1.8-R2.7-R4.3 - Reproducibility/neural_runs_all_seeds.csv",
+    "size": 2446,
+    "sha256": "2a8a87cb22668a087f82cbb1b27747f899b5c1926f625dac661e0e7dae721600"
+  },
+  {
+    "path": "05 Experiment/R1.7-R1.8-R2.7-R4.3 - Reproducibility/paired_comparisons.csv",
+    "size": 1462,
+    "sha256": "9aef62e270af7ef11843a48a2b97d02f05f739e4f0ec3d01066f4d92c77230c4"
+  },
+  {
+    "path": "README.md",
+    "size": 690,
+    "sha256": "a28aa43150121ea574abf03f1ff1deef2f695b1b7a3ed4ef7a1952cdeb1be6d1"
+  }
+]
